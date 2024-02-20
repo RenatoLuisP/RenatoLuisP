@@ -3,7 +3,7 @@
 #### Admirador e apaixonado por dados, com experiência em gestão e projetos.</h3>
 
 
-- 💪🏻 Atualmente tenho interesse em modelagem, visualização, análise e banco de dados.
+- 💻 Atualmente tenho interesse em modelagem, visualização, análise e banco de dados.
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
@@ -43,6 +43,8 @@
 🕵️‍♀️ Sou apaixonado por aprender e estou sempre em busca de novos conhecimentos, não apenas para meu próprio crescimento, mas também para contribuir com aqueles ao meu redor.
 
 ⚽ Além disso, sou um entusiasta por esportes, e essa paixão por desafios esportivos reflete meu comprometimento em buscar novas experiências e de superar obstáculos.
+
+🏆 As atividades físicas mais recorrentes são: Futebol, Corrida e Peteca.
 
 ![Snakeanimation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
