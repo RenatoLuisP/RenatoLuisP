@@ -3,15 +3,15 @@
 #### Admirador e apaixonado por dados, com experiência em gestão e projetos.</h3>
 
 
-- 💪🏻 Atualmente estou trabalhando e tenho interesse em análise e visualização de dados. **DataGrow Analytics**
+- 💪🏻 Atualmente tenho interesse em modelagem, visualização e análise de dados.
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 💬 Me pergunte sobre **SQL, Power BI, Excel, Figma,Python**
+- 💬 Me pergunte sobre **SQL, Power BI, Excel, Figma, Python, DataViz**
 
-- 📫 Você me encontra no **renatoluis.contato@ gmail.com**
+- 📫 Você me encontra também pelo **renatoluis.contato@gmail.com**
 
-- 👇🏻 Aqui você encontra minhas experiências e também habilidades 👇🏻
+- 👇🏻 Aqui você encontra meu perfil com experiências e habilidades 👇🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatoluisdepaula/)
 
@@ -33,7 +33,7 @@
 ![Renato Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoLuisP&show_icons=true&theme=highcontrast)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatoluisp&" alt="renatoluisp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatoluisp&"alt="renatoluisp" /></p>
 
 
 ##
