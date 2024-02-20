@@ -33,8 +33,6 @@
 ![Renato Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoLuisP&show_icons=true&theme=highcontrast)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatoluisp&"alt="renatoluisp" /></p>
-
 
 ##
 ## 💡 Curiosidades
