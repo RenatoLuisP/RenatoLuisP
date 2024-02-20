@@ -1,9 +1,9 @@
-## Fala pessoal 👋, eu sou Renato Luís.</h1>
+## Fala pessoal 👋🏻, eu sou Renato Luís.</h1>
 
 #### Admirador e apaixonado por dados, com experiência em gestão e projetos.</h3>
 
 
-- 💪 Atualmente estou trabalhando e tenho interesse em análise e visualização de dados. **DataGrow Analytics**
+- 💪🏻 Atualmente estou trabalhando e tenho interesse em análise e visualização de dados. **DataGrow Analytics**
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
@@ -11,7 +11,7 @@
 
 - 📫 Você me encontra no **renatoluis.contato@ gmail.com**
 
-- 👇 Aqui você encontra minhas experiências e também habilidades 👇
+- 👇🏻 Aqui você encontra minhas experiências e também habilidades 👇🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatoluisdepaula/)
 
