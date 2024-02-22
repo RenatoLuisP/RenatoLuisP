@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **SQL, Power BI, Excel, Figma, Python, DataViz**
 
-- 📫 Você me encontra também pelo **renatoluis.contato@gmail.com**
+- 📫 Você me encontra também pelo e-mail **renatoluis.contato@gmail.com**
 
 - 👇🏻 Aqui você encontra meu perfil com experiências e habilidades 👇🏻
 
