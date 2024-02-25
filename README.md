@@ -3,7 +3,7 @@
 #### Admirador e apaixonado por dados, com experiência em gestão e projetos.</h3>
 
 
-- 💻 Atualmente tenho interesse em modelagem, visualização, análise e banco de dados.
+- 💻 Atualmente tenho interesse em **modelagem, visualização, análise e banco de dados**
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
